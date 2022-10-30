@@ -1,0 +1,10 @@
+browser:
+  url: "https://abhigyank.github.io/To-Do-List/"
+  type: "chrome"
+item: "To-Do_"
+quantity: "7"
+num: "1"
+list: "1000"
+status: 
+task_list: xpath=//li/label[@class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect mdl-js-ripple-effect--ignore-events is-upgraded"]
+done_list: xpath=//ul[@id="completed-tasks"]/li
