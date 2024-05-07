@@ -14,4 +14,4 @@ TC_02
     [Tags]        TC_02
     add_item_feature.Add items
 
-    #test
+    #test2
